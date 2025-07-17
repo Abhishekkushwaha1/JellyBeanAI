@@ -1092,7 +1092,7 @@ html {
 .app-container {
   position: relative;
   min-height: 100vh;
-  background-image: url('/Users/apple/Desktop/JellyBeanAI/ai-agent-dashboard/public/bg.jpg'); /* Background image */
+  background-image: url('/bg.jpg'); /* Background image */
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
